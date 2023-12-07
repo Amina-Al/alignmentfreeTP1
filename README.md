@@ -14,3 +14,7 @@ Vous devez compléter le README pour y afficher la matrice des distances des bac
 Vous devez également y indiquer le temps d'exécution qu'il a fallu pour calculer cette matrice ainsi que l'espace mémoire maximale. Pour cela vous pouvez utiliser la commande ```/usr/bin/time -v```.
 
 En observant les distances obtenues, que pouvez-vous dire des espèces présentes dans cet échantillon ?
+
+TME réalisé par
+
+Sur les espèces présentes dans l'échantillon, on peut dire que 
